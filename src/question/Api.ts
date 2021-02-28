@@ -1,5 +1,4 @@
 import { shuffleArray } from "./untils";
-import { log } from "util";
 
 export enum Difficulty {
   EASY = "easy",
